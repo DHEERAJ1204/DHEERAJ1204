@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DHEERAJ1204
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning CPP
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play valorant :)
 
